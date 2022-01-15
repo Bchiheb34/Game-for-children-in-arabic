@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?><questions>
+	<category>
+		<thumb name="IQ Questions (Audio)">assets/item_thumb_1.png</thumb>
+		<thumb name="Math Questions">assets/item_thumb_2.png</thumb>
+		<thumb name="Math Puzzles (Audio)">assets/item_thumb_5.png</thumb>
+		<thumb name="Video">assets/item_thumb_4.png</thumb>
+		<thumb name="All">assets/item_thumb_3.png</thumb>
+	</category>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<item>
+		<category>Math Questions</category>
+		<landscape>
+			<question type="image" width="55" top="35" left="22.5" audio="assets/matIQ/Q1.ogg">assets/2calcul/Q1.png</question>
+			<inputs>
+				<input type="blank" correctAnswer="2" left="25" width="20"><![CDATA[?]]></input>
+				<input type="blank" correctAnswer="5" left="55" width="20"><![CDATA[?]]></input>
+				<input type="text" submit="true" top="65" color="#fff" correctAnswer="5"><![CDATA[OK]]></input>
+			</inputs>
+			<explanation type="text" fontSize="120"><![CDATA[  2  ;   5]]></explanation>
+		<answers correctAnswer=""/></landscape>
+		
+		<portrait>
+			<question type="image" fontSize="35" top="22" lineHeight="35" width="60" left="20">assets/questions/math_q7_portrait.png</question>
+			<inputs>
+				<input type="blank" correctAnswer="52" width="50" left="25" top="33"><![CDATA[?]]></input>
+				<input type="blank" correctAnswer="45" width="50" left="25" top="65"><![CDATA[?]]></input>
+				<input type="text" submit="true" top="80" color="#fff" left="25" width="50" fontSize="25" lineHeight="25" offsetTop="-20"><![CDATA[OK]]></input>
+			</inputs>
+			<explanation/>
+		</portrait>
+	</item>
+	
+	
+	
+	
+	
+	
+	
+	
+<item>
+		<category>Math Questions</category>
+		<landscape>
+			<question type="text" audio="assets/matIQ/7-5.ogg"><![CDATA[   7   +   5]]></question>
+			<answers correctAnswer="3">
+				<answer type="text" top="48" width="35" left="15"><![CDATA[  14]]></answer>
+				<answer top="48" type="text" left="52" width="35"><![CDATA[  16]]></answer>
+				<answer top="65" type="text" left="33" width="35"><![CDATA[  12]]></answer>
+			</answers>
+			<inputs/>
+		<explanation type="text" fontSize="100"><![CDATA[   12]]></explanation></landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Three Answers Layout 3]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="40" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="10" top="64" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>Math Questions</category>
+		<landscape>
+			<question type="image" audio="assets/matIQ/3-1-9-6.ogg">assets/2calcul/Q3.png</question>
+			<inputs>
+				<input type="blank" correctAnswer="2" left="25" width="20"><![CDATA[?]]></input>
+				<input type="blank" correctAnswer="3" left="55" width="20"><![CDATA[?]]></input>
+				<input type="text" submit="true" top="65" color="#fff" correctAnswer="5"><![CDATA[OK]]></input>
+			
+			</inputs>
+		<explanation type="text" fontSize="120"><![CDATA[    2 ; 3]]></explanation></landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" top="20" lineHeight="35"><![CDATA[ Fill in the blank layout 2 ]]></question>
+			<inputs>
+				<input type="blank" correctAnswer="" width="50" left="25" top="40">?</input>
+				<input type="blank" correctAnswer="" width="50" left="25" top="65">?</input>
+				<input type="text" top="80" color="#fff" left="25" width="50" fontSize="25" lineHeight="25" offsetTop="-20"><![CDATA[OK]]></input>
+			</inputs>
+		</portrait>
+	</item><item>
+		<category>Math Questions</category>
+		<landscape>
+			<question type="text" audio="assets/matIQ/7-5-1.ogg"><![CDATA[        7   -   5    =   ?]]></question>
+			<answers correctAnswer="1">
+				<answer type="text" top="55" width="25" left="10" audio="assets/matIQ/2.ogg"><![CDATA[2]]></answer>
+				<answer top="55" type="text" left="37.5" width="25" audio="assets/matIQ/9.ogg"><![CDATA[9]]></answer>
+				<answer top="55" type="text" left="65" width="25" audio="assets/matIQ/4.ogg"><![CDATA[4]]></answer>
+			</answers>
+			<inputs/>
+		<explanation type="text" audio="assets/matIQ/2.ogg" fontSize="120"><![CDATA[   2]]></explanation></landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Three Answers Layout 2]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="40" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="10" top="64" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>Math Questions</category>
+		<landscape>
+			<question type="image" audio="assets/matIQ/210-34.ogg">assets/2calcul/Q5.png</question>
+			<inputs>
+				<input type="blank" correctAnswer="20" left="25" width="20"><![CDATA[?]]></input>
+				<input type="blank" correctAnswer="12" left="55" width="20"><![CDATA[?]]></input>
+				<input type="text" submit="true" top="65" color="#fff" correctAnswer="5"><![CDATA[OK]]></input>
+
+			</inputs>
+		<explanation type="text" fontSize="120"><![CDATA[20   ;  12 ]]></explanation></landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" top="20" lineHeight="35"><![CDATA[ Fill in the blank layout 2 ]]></question>
+			<inputs>
+				<input type="blank" correctAnswer="" width="50" left="25" top="40">?</input>
+				<input type="blank" correctAnswer="" width="50" left="25" top="65">?</input>
+				<input type="text" top="80" color="#fff" left="25" width="50" fontSize="25" lineHeight="25" offsetTop="-20"><![CDATA[OK]]></input>
+			</inputs>
+		</portrait>
+	</item><item>
+		<category>Math Questions</category>
+		<landscape>
+			<question type="text" top="20" fontSize="100" audio="assets/matIQ/255.ogg"><![CDATA[25  /  5]]></question>
+			<answers correctAnswer="3">
+				<answer type="text" top="40" width="40" left="30" audio="assets/matIQ/10.ogg"><![CDATA[10]]></answer>
+				<answer top="56" type="text" left="30" width="40" audio="assets/matIQ/50.ogg"><![CDATA[50]]></answer>
+				<answer top="72" type="text" left="30" width="40" audio="assets/matIQ/5.ogg"><![CDATA[5]]></answer>
+			</answers>
+			<inputs/>
+		<explanation type="text" fontSize="120" audio="assets/matIQ/5.ogg"><![CDATA[5]]></explanation></landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Three Answers Layout 1]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="40" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="10" top="64" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>IQ Questions (Audio)</category>
+		<landscape>
+			<question type="text" top="15" fontSize="50"><![CDATA[ماهي الأرقام الفردية]]></question>
+			<answers correctAnswer="1.3.5.7">
+				<answer top="45" type="text" width="25" left="10" audio="assets/matIQ/1.ogg"><![CDATA[1]]></answer>
+				<answer top="45" type="text" left="37.5" width="25" audio="assets/matIQ/2.ogg"><![CDATA[ 2]]></answer>
+				<answer top="45" type="text" left="65" width="25" audio="assets/matIQ/3.ogg"><![CDATA[ 3]]></answer>
+				<answer top="62" type="text" left="10" width="25" audio="assets/matIQ/4.ogg"><![CDATA[ 4]]></answer>
+				<answer top="62" type="text" left="37.5" width="25" audio="assets/matIQ/5.ogg"><![CDATA[ 5]]></answer>
+				<answer top="62" type="text" left="65" width="25" audio="assets/matIQ/6.ogg"><![CDATA[ 6]]></answer>
+				<answer top="79" type="text" left="23" width="25" audio="assets/matIQ/7.ogg"><![CDATA[ 7]]></answer>
+				<answer top="79" type="text" left="51" width="25" audio="assets/matIQ/8.ogg"><![CDATA[ 8]]></answer>
+			</answers>
+			<inputs/>
+		<explanation type="text" fontSize="120"><![CDATA[1 ; 3 ; 5 ; 7]]></explanation></landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" top="10" lineHeight="35"><![CDATA[Eight Answers Layout 2]]></question>
+			<answers correctAnswer="1.3.5.7">
+				<answer type="text" width="90" top="30" height="7" fontSize="25" lineHeight="25" offsetTop="-12"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="7" top="38" type="text" fontSize="25" lineHeight="25" offsetTop="-12"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="7" top="46" type="text" fontSize="25" lineHeight="25" offsetTop="-12"><![CDATA[Answer 3]]></answer>
+				<answer width="90" height="7" top="54" type="text" fontSize="25" lineHeight="25" offsetTop="-12"><![CDATA[Answer 4]]></answer>
+				<answer width="90" height="7" top="62" type="text" fontSize="25" lineHeight="25" offsetTop="-12"><![CDATA[Answer 5]]></answer>
+				<answer width="90" height="7" top="70" type="text" fontSize="25" lineHeight="25" offsetTop="-12"><![CDATA[Answer 6]]></answer>
+				<answer width="90" height="7" top="78" type="text" fontSize="25" lineHeight="25" offsetTop="-12"><![CDATA[Answer 7]]></answer>
+				<answer width="25" top="79" type="text" left="51" audio="assets/matIQ/8.ogg"><![CDATA[ 8]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>IQ Questions (Audio)</category>
+		<landscape>
+			<question type="text" top="15"><![CDATA[ماهي قواسم 10]]></question>
+			<answers correctAnswer="7">
+				<answer top="45" type="text" width="25" left="10" audio="assets/matIQ/9.ogg"><![CDATA[9]]></answer>
+				<answer top="45" type="text" left="37.5" width="25" audio="assets/matIQ/20.ogg"><![CDATA[20]]></answer>
+				<answer top="45" type="text" left="65" width="25" audio="assets/matIQ/30.ogg"><![CDATA[30]]></answer>
+				<answer top="62" type="text" left="10" width="25" audio="assets/matIQ/40.ogg"><![CDATA[40]]></answer>
+				<answer top="62" type="text" left="37.5" width="25" audio="assets/matIQ/50.ogg"><![CDATA[50]]></answer>
+				<answer top="62" type="text" left="65" width="25" audio="assets/matIQ/60.ogg"><![CDATA[60]]></answer>
+				<answer top="79" type="text" left="37.5" width="25" audio="assets/matIQ/10.ogg"><![CDATA[10]]></answer>
+			</answers>
+			<inputs/>
+		<explanation type="text" fontSize="120" audio="assets/matIQ/10.ogg"><![CDATA[10]]></explanation></landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" top="10" lineHeight="35"><![CDATA[Seven Answers Layout 2]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" top="30" height="8" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="8" top="39" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="8" top="48" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 3]]></answer>
+				<answer width="90" height="8" top="57" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 4]]></answer>
+				<answer width="90" height="8" top="66" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 5]]></answer>
+				<answer width="90" height="8" top="75" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 6]]></answer>
+				<answer width="90" height="8" top="84" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 7]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>IQ Questions (Audio)</category>
+		<landscape>
+			<question type="text"><![CDATA[كم يساوي عشرة ضرب تسعة ؟]]></question>
+			<answers correctAnswer="1">
+				<answer type="text" top="55" left="18" audio="assets/matIQ/90.ogg"><![CDATA[90]]></answer>
+				<answer top="55" type="text" left="50" audio="assets/matIQ/9.ogg"><![CDATA[9]]></answer>
+			</answers>
+			<inputs/>
+		<explanation type="text" fontSize="120" audio="assets/matIQ/90.ogg"><![CDATA[90]]></explanation></landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Two Answers Horizontal]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="45" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="58" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>IQ Questions (Audio)</category>
+		<landscape>
+			<question type="text"><![CDATA[ماهو أكبر عدد]]></question>
+			<answers correctAnswer="1">
+				<answer type="text" top="48" width="35" left="15" audio="assets/matIQ/1000.ogg"><![CDATA[1000]]></answer>
+				<answer top="48" type="text" left="52" width="35" audio="assets/matIQ/100.ogg"><![CDATA[100]]></answer>
+				<answer top="65" type="text" left="33" width="35" audio="assets/matIQ/70.ogg"><![CDATA[70]]></answer>
+			</answers>
+			<inputs/>
+		<explanation type="text" fontSize="120" audio="assets/matIQ/1000.ogg"><![CDATA[1000]]></explanation></landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Three Answers Layout 3]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="40" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="10" top="64" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>IQ Questions (Audio)</category>
+		<landscape>
+			<question type="text"><![CDATA[أكبر رقم ؟؟؟؟]]></question>
+			<answers correctAnswer="1">
+				<answer type="text" top="55" width="25" left="10" audio="assets/matIQ/8.ogg"><![CDATA[8]]></answer>
+				<answer top="55" type="text" left="37.5" width="25" audio="assets/matIQ/10.ogg"><![CDATA[10]]></answer>
+				<answer top="55" type="text" left="65" width="25" audio="assets/matIQ/6.ogg"><![CDATA[6]]></answer>
+			</answers>
+			<inputs/>
+		<explanation type="text" fontSize="120" audio="assets/matIQ/8.ogg"><![CDATA[8]]></explanation></landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Three Answers Layout 2]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="40" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="10" top="64" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category></category>
+		<landscape>
+			<question type="text" fontSize="100"><![CDATA[مخروط]]></question>
+			<answers correctAnswer="2">
+				<answer type="image" top="55" width="20" left="10">assets/MUL/Q2.png</answer>
+				<answer top="55" type="image" left="37.5" width="20">assets/MUL/Q1.png</answer>
+				<answer top="55" type="image" left="65" width="20">assets/MUL/Q4.png</answer>
+			</answers>
+			<inputs/>
+		</landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Three Answers Layout 2]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="40" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="10" top="64" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>Math Puzzles (Audio)</category>
+		<landscape>
+			<question type="text"><![CDATA[هرم]]></question>
+			<answers correctAnswer="1">
+				<answer type="image" top="45" left="15">assets/MUL/Q3.png</answer>
+				<answer top="45" type="image" left="55">assets/MUL/Q1.png</answer>
+			</answers>
+			<inputs/>
+		</landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Two Answers Horizontal]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="45" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="58" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>Math Puzzles (Audio)</category>
+		<landscape>
+			<question type="text"><![CDATA[أسطوانة]]></question>
+			<answers correctAnswer="2">
+				<answer type="image" top="40" width="25" left="10">assets/MUL/Q5.png</answer>
+				<answer top="40" type="image" left="37.5" width="25">assets/MUL/Q4.png</answer>
+				<answer top="40" type="image" left="65" width="25">assets/MUL/Q2.png</answer>
+			</answers>
+			<inputs/>
+		</landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Three Answers Layout 2]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="40" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="10" top="64" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>Math Puzzles (Audio)</category>
+		<landscape>
+			<question type="text"><![CDATA[ماهو شكل الدائرة ثلاثية الابعاد]]></question>
+			<answers correctAnswer="3">
+				<answer type="image" top="42" width="25" left="10">assets/MUL/Q1.png</answer>
+				<answer top="42" type="image" left="37.5" width="25">assets/MUL/Q4.png</answer>
+				<answer top="42" type="image" left="65" width="25">assets/MUL/Q5.png</answer>
+			</answers>
+			<inputs/>
+		</landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Three Answers Layout 2]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="40" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="10" top="64" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>IQ Questions (Audio)</category>
+		<landscape>
+			<question type="image">assets/MP/Q1.png</question>
+			<answers correctAnswer="2">
+				<answer type="text" top="48" width="35" left="15"><![CDATA[أحمر]]></answer>
+				<answer top="48" type="text" left="52" width="35"><![CDATA[ أصفر]]></answer>
+				<answer top="65" type="text" left="33" width="35"><![CDATA[أخضر]]></answer>
+			</answers>
+			<inputs/>
+		</landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Three Answers Layout 3]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="40" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="10" top="64" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>Math Puzzles (Audio)</category>
+		<landscape>
+			<question type="text"><![CDATA[مربع]]></question>
+			<answers correctAnswer="3">
+				<answer type="image" top="42" width="25" left="10">assets/MP/Q3.png</answer>
+				<answer top="42" type="image" left="37.5" width="25">assets/MP/Q2.png</answer>
+				<answer top="42" type="image" left="65" width="25">assets/MP/Q1.png</answer>
+			</answers>
+			<inputs/>
+		</landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Three Answers Layout 2]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="40" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="10" top="64" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>Math Puzzles (Audio)</category>
+		<landscape>
+			<question type="text" top="20"><![CDATA[مستطيل]]></question>
+			<answers correctAnswer="1">
+				<answer type="image" top="40" width="20" left="10" height="10">assets/MP/Q2.png</answer>
+				<answer top="40" type="image" left="40" width="20" height="30">assets/MP/Q5.png</answer>
+				<answer top="40" type="image" left="70" width="20">assets/MP/Q4.png</answer>
+			</answers>
+			<inputs/>
+		</landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Three Answers Layout 1]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="40" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="10" top="64" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>Math Puzzles (Audio)</category>
+		<landscape>
+			<question type="text"><![CDATA[متوازي مستطيلات]]></question>
+			<answers correctAnswer="2">
+				<answer type="image" top="42" left="18" width="25">assets/MP/Q5.png</answer>
+				<answer top="42" type="image" left="50" width="25">assets/MP/Q3.png</answer>
+			</answers>
+			<inputs/>
+		</landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Two Answers Horizontal]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="45" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="58" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>Math Puzzles (Audio)</category>
+		<landscape>
+			<question type="text"><![CDATA[دائرة]]></question>
+			<answers correctAnswer="2">
+				<answer type="image" top="45" left="10" width="25">assets/MP/Q1.png</answer>
+				<answer top="45" type="image" left="65" width="25">assets/MP/Q4.png</answer>
+			</answers>
+			<inputs/>
+		</landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Two Answers Horizontal]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="45" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="58" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item><item>
+		<category>Math Puzzles (Audio)</category>
+		<landscape>
+			<question type="image" width="20" top="5" left="40">assets/MP/Q5.png</question>
+			<answers correctAnswer="3">
+				<answer type="text" top="48" width="35" left="15"><![CDATA[سباعي]]></answer>
+				<answer top="48" type="text" left="52" width="35"><![CDATA[سداسي]]></answer>
+				<answer top="65" type="text" left="33" width="35"><![CDATA[خماسي]]></answer>
+			</answers>
+			<inputs/>
+		</landscape>
+		
+		<portrait>
+			<question type="text" fontSize="35" lineHeight="35"><![CDATA[Three Answers Layout 3]]></question>
+			<answers correctAnswer="2">
+				<answer type="text" width="90" height="10" top="40" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 1]]></answer>
+				<answer width="90" height="10" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+				<answer width="90" height="10" top="64" type="text" fontSize="25" lineHeight="25" offsetTop="-15"><![CDATA[Answer 2]]></answer>
+			</answers>
+			<inputs/>
+		</portrait>
+	</item></questions>
